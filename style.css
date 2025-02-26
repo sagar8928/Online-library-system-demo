@@ -1,0 +1,32 @@
+/*h1 {
+  color: red;
+}
+#main {
+  color: green;
+}
+.green-text {
+  color: blue;
+}
+#main {
+  color: yellow;
+}
+p[draggable='false'] {
+  color: red;
+}
+p[draggable='true'] {
+  color: pink;
+}
+*/
+p {
+  color: purple;
+}
+
+.note {
+  font-size: 30px;
+}
+#hi {
+  color: red;
+}
+li[value='2'] {
+  color: blue;
+}
