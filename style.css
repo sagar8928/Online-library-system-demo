@@ -18,15 +18,23 @@ p[draggable='true'] {
 }
 */
 p {
-  color: purple;
+  color:rgb(109, 91, 78);
 }
 
 .note {
   font-size: 30px;
 }
 #hi {
-  color: red;
+  color: #BF3131;
 }
 li[value='2'] {
   color: blue;
+  background-color: #B17F59
+}
+body {
+  background-color: antiquewhite;
+}
+h1{
+  color:red
+  background-color: #B17F59
 }
